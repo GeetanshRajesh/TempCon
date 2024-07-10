@@ -6,6 +6,7 @@
    Input Validation: Ensures the entered temperature is a valid number and updates the converted value accordingly.
    Focus Management: Includes focus management for the input field to provide a better user experience.
 ##Screenshots
+   
    <img width="313" alt="Screenshot 2024-07-10 at 11 58 37 AM" src="https://github.com/GeetanshRajesh/TempCon/assets/158539311/d053a5db-9b05-4f1a-9398-e4acbc4dc86b">
 
 
